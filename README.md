@@ -2,7 +2,7 @@
 
 The purpose of the repo is to ilustrate and check how to write a .config file for circleci to run Terratest tests. There was not found any demo terratest .config file so following [this comment](https://github.com/gruntwork-io/terratest/issues/265) [this module](https://github.com/influxdata/terraform-aws-influx/blob/v0.2.0/.circleci/config.yml) is modified and check using an example of [terratest](https://github.com/gruntwork-io/terratest).
 
-- First, it is modifeid this based .config file, first adding the credentials to circle ci.
+- First, it is modifeid this based .config file, first adding the credentials to circle ci. [Tutorial](https://learn.hashicorp.com/tutorials/terraform/circle-ci)
 
 
 
